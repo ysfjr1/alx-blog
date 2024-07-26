@@ -4,7 +4,7 @@
 
 
 ## Learning Objectives
---Understand React.
+--Understand React. <br>
 --Understanding Laravel Architecture
 --Learn how to integrate Laravel Backend to React using inertia.
 --Improve Ui designing using Tailwind css.
