@@ -5,15 +5,15 @@
 
 ## Learning Objectives
 --Understand React. <br>
---Understanding Laravel Architecture
---Learn how to integrate Laravel Backend to React using inertia.
---Improve Ui designing using Tailwind css.
+--Understanding Laravel Architecture <br>
+--Learn how to integrate Laravel Backend to React using inertia. <br>
+--Improve Ui designing using Tailwind css. <br>
 
 ## Technology Used
--Frontend: React.js with Tailwind
--Backend: Laravel php
--Database: MySql
--Hosting: Local Host
+-Frontend: React.js with Tailwind <br>
+-Backend: Laravel php <br>
+-Database: MySql <br>
+-Hosting: Local Host <br>
 
 i didnt use axios or any api for the routing i utilized the laravels inertia routing method that allowed me to used the laravels named routes and ziggy package.
 
